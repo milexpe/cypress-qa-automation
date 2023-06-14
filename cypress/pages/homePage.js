@@ -1,12 +1,5 @@
-//import {basePage} from '../pages/basePage'
-
-//export default class homePage extends basePage {
 class homePage {
-/*
-    constructor() {
-        super();
-    }
-*/
+    
     elements = {
         header : () => cy.get('header h1'),
         githubUsernameLabel : () => cy.get('div label'),
