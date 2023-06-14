@@ -3,7 +3,6 @@
 2. Once again at the root directory of the repo using the terminal, type **yarn start**
 
 # How to execute Cypress
-There are 2 ways the scripts:
 
 **UI:**
 
