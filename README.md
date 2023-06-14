@@ -2,8 +2,8 @@
 1. At the root directory of the repo using the terminal, type **npm install**
 2. Once again at the root directory of the repo using the terminal, type **yarn start**
 
-# How to execute cypress
-There are 2 ways to execute cypress script:
+# How to execute Cypress
+There are 2 ways the scripts:
 
 **UI:**
 
