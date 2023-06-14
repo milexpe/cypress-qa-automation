@@ -1,5 +1,5 @@
 # Start application
-1. At the root directory of the repo using the terminal, type **npx install**
+1. At the root directory of the repo using the terminal, type **npm install**
 2. Once again at the root directory of the repo using the terminal, type **yarn start**
 
 # Cypress Setup
